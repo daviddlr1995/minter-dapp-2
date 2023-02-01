@@ -1,4 +1,4 @@
-const contractAddress = "0x5d1d86A765A36E40241A63198df5Aa3E06497b73"; // Replace with your own contract address
+const contractAddress = "0x31A1511f518d8A248541c34CECD55dd0797D8AA7"; // Replace with your own contract address
 const chain = 'ethereum'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the CyberSpace Squad NFT Project!!";
